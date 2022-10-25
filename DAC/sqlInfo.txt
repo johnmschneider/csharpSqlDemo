@@ -1,0 +1,5 @@
+﻿- database name/instance:
+dbJobDemo1
+
+- pass:
+LehtMehEen
